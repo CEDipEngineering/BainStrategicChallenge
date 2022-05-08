@@ -8,6 +8,8 @@
 - Clustering Manual Cidades -> ML (Dip)
     - Escolher janela
     - Se muitos dados faltantes, tentar outro modelo, como chute constante na média
+    - Tentar analisar serie temporal da diferença
+    
 
 - Valores faltantes:
     - Colocar 0 onde não fizer sentido prever (como nos 10 primeiros anos)
