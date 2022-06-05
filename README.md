@@ -8,3 +8,4 @@ Some of the challeging problems that were found during the project were the mult
 - The latter study into individual cities and their products can be found in the 'city_clustering_v2.ipynb' notebook.
 - The results can be found in the results directory.
 
+https://docs.google.com/presentation/d/1ZrMOqKBEPPKqcWbjBBGMTZeTqd6DhCC6rtBJb0tqVTw/edit?usp=sharing
